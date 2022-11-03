@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /** Demo Class for GitHub Lab
- * @author Clinton Garwood
  * @version 1
+ * @author Clinton Garwood
  */
 public class Traveler {
 
