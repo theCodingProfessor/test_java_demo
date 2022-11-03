@@ -9,6 +9,8 @@ import java.util.Scanner;
  */
 public class Traveler {
 
+  /** Integer tallies total miles traveled
+   */
   public int getMiles_traveled() {
     return miles_traveled;
   }
